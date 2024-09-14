@@ -118,3 +118,5 @@ melt_almost_tidy <- melt(almost_tidy, id=c("Subject", "Activity", "Feature"),
 
 
 tidy <- dcast(melt_almost_tidy, Subject + Activity + Feature ~ variable, mean) 
+
+write.csv(tidy, "tidy_data.csv")
