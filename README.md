@@ -12,4 +12,4 @@
 - .csv file of the tidy dataset
 
 ### `CodeBook.md`
-- discusses the analyses performed to tidy the dataset
+- discusses the variables involved in tidying the dataset
