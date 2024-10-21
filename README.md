@@ -2,7 +2,8 @@
 
 ## Author: Sheila Yeboah
 
-## Project Description: This project uses data published by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. The aim is to take the data and create a tidy dataframe from it.
+## Project Description: 
+This project uses data published by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. The aim is to take the data and create a tidy dataframe from it.
 
 
 ### `run_analysis.R`
